@@ -1,4 +1,3 @@
 console.log(DataTransfer)
-console.log(req.res)
-console.log(req.body)
-console.log(params)
+
+console.log(req.headers)
